@@ -11,7 +11,7 @@ client.on('message', msg => {
     if (msg.author == client.user) {
       return;
     }
-    else if (msg.content === 'ping') {
+    else if (msg.content === 'pendejos de mierda') {
       msg.reply('Pong!');
     }
     else {

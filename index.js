@@ -12,7 +12,7 @@ client.on('message', msg => {
       return;
     }
     else if (msg.content === 'pendejos de mierda') {
-      msg.reply('Pong!');
+      msg.reply('PENE!');
     }
     else {
         msg.reply(msg.content);
